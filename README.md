@@ -12,3 +12,5 @@ port 68 client
 - Option 1 Subnet mask
 - Option 6 Domain server
 - Option 51 lease time
+- Option 3 Router
+- Option 150 TFTP server
